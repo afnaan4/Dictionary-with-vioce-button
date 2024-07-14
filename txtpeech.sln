@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "txtpeech", "txtpeech\txtpeech.csproj", "{4EDF92EB-23B0-4062-8448-A816BDBD4D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDF92EB-23B0-4062-8448-A816BDBD4D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDF92EB-23B0-4062-8448-A816BDBD4D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDF92EB-23B0-4062-8448-A816BDBD4D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDF92EB-23B0-4062-8448-A816BDBD4D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9511BA72-3173-4D5D-B7AE-53184ECCEC37}
+	EndGlobalSection
+EndGlobal
